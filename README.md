@@ -1,1 +1,1 @@
-README del repositorio de pruebas hola_mundo.
+README del repositorio hola_mundo.
